@@ -1,5 +1,5 @@
 ## Hi there 👋
-Sprunki For Android: [.[github](https://play.google.com/store/apps/details?id=com.VotroGame.Sprunki)](https://play.google.com/store/apps/details?id=com.VotroGame.Sprunki)
+Sprunki For Android: [(https://play.google.com/store/apps/details?id=com.VotroGame.Sprunki)](https://play.google.com/store/apps/details?id=com.VotroGame.Sprunki)
 
 
 
