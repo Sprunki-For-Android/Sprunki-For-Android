@@ -2,6 +2,9 @@
 Sprunki For Android: [https://play.google.com/store/apps/details?id=com.VotroGame.Sprunki)]
 ## Download [Sprunki](https://play.google.com/store/apps/details?id=com.VotroGame.Sprunki)
 ![380064248-41625f6b-fdf2-4177-94fd-c08a1bb3efa4](https://github.com/user-attachments/assets/b6d912e5-7aae-4e30-a84d-e268ea67cb6d)
+## [CLICK TO PLAY SPRUNKI](https://play.google.com/store/apps/details?id=com.VotroGame.Sprunki)
+
+
 <!--
 **Sprunki-For-Android/Sprunki-For-Android** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
